@@ -1,0 +1,12 @@
+
+    //Instance Variables
+
+
+    //Constructors
+
+
+    //Getters & Setters
+
+
+    //Methods
+
